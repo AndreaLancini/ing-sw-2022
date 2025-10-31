@@ -1,5 +1,4 @@
 # Prova Finale di Ingegneria del Software
-## Gruppo PSP48 componenti: [Alessandro Finazzi], [Andrea Gallazzini], [Andrea Lancini]
 
 ## Funzionalità implementate
 - Regole Complete
